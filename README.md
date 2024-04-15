@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Professional-Certificate
+# IBM Data Analyst - Web Scraping
 
 ## Extracting and Visualizing Stock Data using Python Library and Web Scraping.
 
